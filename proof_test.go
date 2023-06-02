@@ -1,4 +1,4 @@
-package main
+package merkletree
 
 import (
 	"github.com/stretchr/testify/assert"
