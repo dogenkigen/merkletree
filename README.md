@@ -1,4 +1,4 @@
-# GoMerkleTree
+# MerkleTree
 
 GoMerkleTree is a Merkle tree implementation in Go. It allows for efficient and secure verification of the contents of large data structures. When you insert data into the Merkle tree, it creates a unique digital fingerprint (hash) of your data. You can then use that fingerprint to verify that your data hasn't been tampered with.
 
