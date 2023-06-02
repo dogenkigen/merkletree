@@ -1,4 +1,4 @@
-module github.com/dogenkigen/consensys
+module github.com/dogenkigen/merkletree
 
 go 1.19
 
