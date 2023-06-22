@@ -12,7 +12,7 @@ hasher := func(data []byte) []byte {
     // implement your hashing function here
 }
 // or
-hasher := gomerkletree.SHA256Hasher
+hasher := gomerkletree.Blake2b512Hasher
 ```
 Then, you can create your leaf nodes:
 ```go
